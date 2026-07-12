@@ -1,0 +1,18 @@
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# React / Frontend
+node_modules/
+build/
+dist/
+.DS_Store
+
+# YOLOv8 / Machine Learning (Optional but recommended)
+*.pt
+*.onnx
+runs/
